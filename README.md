@@ -6,12 +6,14 @@ OpenHAB for Raspberry Pi
 =====================
 I have shared a IMG file with Raspbain Jessie with Openhab already pre-configured with the OpenHAB demo files.
 
-#INSTRUCTIONS:
+#Creating the bootable SD Card
+
+##INSTRUCTIONS:
 
 
 REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYSTEM YOU HAVE
 
-##Windows:
+###Windows:
 
 
 1. Download the Image
@@ -26,7 +28,7 @@ REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYST
 
 6. Start the imaging proccess
 
-##Mac:
+###Mac:
 
 
 1. Downlaod the Image
@@ -41,7 +43,7 @@ REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYST
 
 6. after you have located it press the restore button.
 
-##Linux:
+###Linux:
 
 
 1.) Download the Image
