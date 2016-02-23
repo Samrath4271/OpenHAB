@@ -1,4 +1,4 @@
-OpenHAB for Raspberry Pi
+#OpenHAB for Raspberry Pi
 =========================
 ###With my repository you will learn how to install Openhab for the Raspberry pi without many commands
 
