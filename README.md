@@ -12,6 +12,7 @@ INSTRUCTIONS:
 REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYSTEM YOU HAVE
 
 Windows:
+---------
 
 1. Download the Image
 
@@ -26,6 +27,7 @@ Windows:
 6. Start the imaging proccess
 
 Mac:
+----
 
 1. Downlaod the Image
 
@@ -40,6 +42,7 @@ Mac:
 6. after you have located it press the restore button.
 
 Linux:
+------
 
 1.) Download the Image
 
