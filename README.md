@@ -11,12 +11,12 @@ INSTRUCTIONS:
 REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYSTEM YOU HAVE
 
 Windows:
-1. Download the Image
-2. Download Win32DiskImager
-3. Insert SD Card
-4. Start Wind32DiskImager
-5. locate the image I have given you
-6. and start the imaging proccess
+1.Download the Image
+2.Download Win32DiskImager
+3.Insert SD Card
+4.Start Wind32DiskImager
+5.locate the image I have given you
+6.and start the imaging proccess
 
 Mac:
 1. Downlaod the Image
