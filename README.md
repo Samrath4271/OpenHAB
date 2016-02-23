@@ -1,3 +1,5 @@
+OpenHAB for Raspberry Pi
+=========================
 With my repository you will learn how to install Openhab for anyone.
 
 1. Installing OpenHab
