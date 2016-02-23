@@ -22,7 +22,7 @@ REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYST
 
 3. Insert SD Card
 
-4. Start Wind32DiskImager
+4. Start Win32DiskImager
 
 5. Locate the image I have given you
 
