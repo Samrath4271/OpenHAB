@@ -1,4 +1,4 @@
-#OpenHAB for Raspberry Pi
+OpenHAB for Raspberry Pi
 =========================
 ###With my repository you will learn how to install Openhab for the Raspberry pi without many commands
 
@@ -6,13 +6,13 @@
 =====================
 I have shared a IMG file with Raspbain Jessie with Openhab already configured with the OpenHAB demo files.
 
-INSTRUCTIONS:
---------------
+#INSTRUCTIONS:
+
 
 REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYSTEM YOU HAVE
 
-Windows:
----------
+##Windows:
+
 
 1. Download the Image
 
@@ -26,8 +26,8 @@ Windows:
 
 6. Start the imaging proccess
 
-Mac:
-----
+##Mac:
+
 
 1. Downlaod the Image
 
@@ -41,8 +41,8 @@ Mac:
 
 6. after you have located it press the restore button.
 
-Linux:
-------
+##Linux:
+
 
 1.) Download the Image
 
