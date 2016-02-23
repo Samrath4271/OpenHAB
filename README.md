@@ -18,7 +18,7 @@ REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYST
 
 1. Download the Image
 
-2. Download {Win32 Disk Imager} [https://sourceforge.net/projects/win32diskimager/files/Archive/]
+2. Download [Win32 Disk Imager] {https://sourceforge.net/projects/win32diskimager/files/Archive/}
 
 3. Insert SD Card
 
