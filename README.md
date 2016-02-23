@@ -3,11 +3,11 @@ OpenHAB for Raspberry Pi
 With my repository you will learn how to install Openhab for anyone.
 
 1. Installing OpenHab
-
+=====================
 I have shared a IMG file with Raspbain Jessie with Openhab already configured with the OpenHAB demo files.
 
 INSTRUCTIONS:
-=============
+--------------
 
 REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYSTEM YOU HAVE
 
