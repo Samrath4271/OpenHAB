@@ -42,10 +42,3 @@ REMEMBER TO DOWNLOAD THE CORRECT FOLDER THAT CORRESPONDS WITH THE OPERATING SYST
 5. Locate the Image I have given you UNDER THE RESTORE SECTION
 
 6. after you have located it press the restore button.
-
-###Linux:
-
-
-1.) Download the Image
-
-2.) 
